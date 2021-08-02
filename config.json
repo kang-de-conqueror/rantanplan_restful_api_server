@@ -1,0 +1,3 @@
+{
+    "CONNECTION_STRING": "Driver={SQL Server}; Server=127.0.0.1; Database=Rantanplan; uid=sa; pwd=123456"
+}
